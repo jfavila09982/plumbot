@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Uploaded files (optional if not needed in repo)
+uploads/*.pdf
+
+# Environment files
+.env
